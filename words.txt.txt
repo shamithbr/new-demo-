@@ -1,1 +1,1 @@
-hello this is a demo to check whether the git hub is working or not with the text file
+ok so now it is working what im doing now is that i will edit this and see if the same happens in the GitHub also
